@@ -23,13 +23,4 @@
 * Building projects for resume and GSoC
 
 ---
-
-### 📫 Let's Connect
-
-* [LinkedIn)(https://www.linkedin.com/in/umang-bandil-ba049b235/)]
-* [Portfolio](https://your-portfolio-link.com) *(if available)*
-* [umangbandil@gmail.com](mailto:umangbandil269@gmail.com)
-
----
-
 ⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and connect!*
